@@ -67,7 +67,7 @@
                                             {
                                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                 "Props": {
-                                                    "Text": "$$SERVER$:$WELCOME_TO_SERVER",
+                                                    "Text": "$$SERVER$:$WELCOME_TO_the_arkonauts_SERVER",
                                                     "FontSize": 32,
                                                     "Padding": [
                                                         5,
